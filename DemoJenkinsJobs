@@ -1,0 +1,8 @@
+public class DemoJenkinsJobs {
+public void testJenkins(){
+
+    System.out.println("Welcome to Jenkins world");
+
+}
+
+}
